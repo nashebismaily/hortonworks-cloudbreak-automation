@@ -10,7 +10,7 @@ Automation Recipe/Template:
   1. Create a new sshkey for the cluster
   2. Create a credential
   3. Create a template
-  4. Either select and existing cloudbreak blueprint or create a new cloudbreak blueprint from a provided json file
+  4. Either select an existing cloudbreak blueprint or create a new cloudbreak blueprint from a provided json file
   5. Create a network on an existing subnet
   6. Create the stack
   7. Create the cluster
