@@ -1,6 +1,0 @@
-name             'cloudbreak-automation'
-maintainer       'Nasheb Ismaily'
-maintainer_email 'nasheb@gmail.com'
-license          'All rights reserved'
-description      'Installs/Configures cloudbreak-automation'
-version          '0.1.0'
