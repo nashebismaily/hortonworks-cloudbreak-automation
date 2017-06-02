@@ -1,0 +1,6 @@
+name             'cloudbreak-deployer-installation'
+maintainer       'Nasheb Ismaily'
+maintainer_email 'nasheb@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures cloudbreak-deployer-installation'
+version          '0.1.0'

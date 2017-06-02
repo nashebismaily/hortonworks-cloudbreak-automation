@@ -1,0 +1,16 @@
+default[:docker][:url]				= "https://yum.dockerproject.org/repo/main/centos/7"
+default[:docker][:gpgkey]			= "https://yum.dockerproject.org/gpg"
+
+default[:profile][:default_secret]		= "\[SECRET\]"
+default[:profile][:user_email]			= "myemail@emil.com"
+default[:profile][:user_pw]			= "myemailpassword"
+default[:profile][:public_ip]			= "192.168.56.119"
+default[:profile][:sender_username]		= "myemail@emil.com"
+default[:profile][:sender_password]		= "myemailpassword"
+default[:profile][:sender_host]			= "smtp.gmail.com"
+default[:profile][:sender_port]			= "25"
+default[:profile][:sender_from]			= "myemail@emil.com"
+default[:profile][:smtp_auth]			= "true"
+default[:profile][:smtp_starttls_enable]	= "true"
+default[:profile][:smtp_type]			= "true"
+

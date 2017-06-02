@@ -1,0 +1,6 @@
+name             'cloudbreak-hdp-cluster-deployment'
+maintainer       'Nasheb Ismaily'
+maintainer_email 'nasheb@gmail.com'
+license          'All rights reserved'
+description      'Installs/Configures cloudbreak-hdp-cluster-deployment'
+version          '0.1.0'
