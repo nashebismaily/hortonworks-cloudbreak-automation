@@ -72,6 +72,6 @@ template "deploy_cluster" do
 end
 
 execute 'cb_create_cluster' do
-  command "cd #{ node[:deployment_dir] } && cbd util cloudbreak-shell-quiet <  #{ node[:deployment_dir]}/deployCluster"
+  command "cd #{ node[:deployment_dir] } ; cbd util cloudbreak-shell-quiet <  #{ node[:deployment_dir]}/deployCluster"
 end
 
