@@ -1,7 +1,5 @@
 # cloudbreak-automation Cookbook
 
-# Author: Nasheb Ismaily
-
 This cookbook will deploy the Hortonworks Data Platform on Amazon AWS uisng Cloudbreak by performing the following:
 
 Assumptions made:
