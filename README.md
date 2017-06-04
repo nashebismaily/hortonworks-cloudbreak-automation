@@ -1,4 +1,4 @@
-## Cloudbreak Automation - Chef Cookbooks
+# Cloudbreak Automation - Chef Cookbooks
 
 Chef cookbook utilities that enable the deployment of Cloudbreak/HDP on AWS.  
 
